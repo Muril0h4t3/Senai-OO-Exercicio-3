@@ -1,0 +1,11 @@
+C:\Users\50981737870\senai.OO.exercicio3\bin\Debug\netcoreapp2.1\senai.OO.exercicio3.deps.json
+C:\Users\50981737870\senai.OO.exercicio3\bin\Debug\netcoreapp2.1\senai.OO.exercicio3.runtimeconfig.json
+C:\Users\50981737870\senai.OO.exercicio3\bin\Debug\netcoreapp2.1\senai.OO.exercicio3.runtimeconfig.dev.json
+C:\Users\50981737870\senai.OO.exercicio3\bin\Debug\netcoreapp2.1\senai.OO.exercicio3.dll
+C:\Users\50981737870\senai.OO.exercicio3\bin\Debug\netcoreapp2.1\senai.OO.exercicio3.pdb
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.csprojAssemblyReference.cache
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.AssemblyInfoInputs.cache
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.AssemblyInfo.cs
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.dll
+C:\Users\50981737870\senai.OO.exercicio3\obj\Debug\netcoreapp2.1\senai.OO.exercicio3.pdb
